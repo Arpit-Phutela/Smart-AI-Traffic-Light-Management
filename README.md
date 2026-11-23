@@ -87,7 +87,7 @@ python app.py
 ├── traffic_video.mp4       # Sample traffic footage
 ├── traffic_lstm.h5         # Pre-trained LSTM model
 ├── yolov8n.pt              # YOLOv8 nano weights
-├── app.py                  # Main application script
+├── main.py                  # Main application script
 ├── evaluate.py             # Evaluation pipeline script
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
@@ -126,10 +126,8 @@ python evaluate.py --dataset path/to/dataset
 
 ## 🧑‍💻 Author
 
-**Prattyan Ghosh**  
-📧 Email: prattyanghosh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prattyanghosh) | [Portfolio](https://prattyanghosh.xyz)
-
+**Arpit Phutela**  
+📧 Email: arpitt3309@gmail.com  
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
