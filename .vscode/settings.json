@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/convert_bdd_to_yolo.py": true,
+        "**/evaluate.py": true,
+        "**/evaluation_pipeline.py": true,
+        "**/layout.json": true,
+        "**/README.md": true,
+        "**/UPDATED_README.md": true,
+        "**/requirements.txt": true,
+        "**/traffic_lstm.h5": true,
+        "**/__pycache__": true
+    }
+}
